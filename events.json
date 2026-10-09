@@ -1,0 +1,33 @@
+{
+  "_readme": "Active when start <= today <= end (America/Chicago, inclusive). Past events vanish automatically. board = home 'this week' list. banner = /vendors 'next up' boxes.",
+  "events": [
+    {
+      "id": "hat-burning-2026-10-02",
+      "title": "hat burning workshop",
+      "label": "fri oct 2 · 6pm",
+      "start": "2026-09-19",
+      "end": "2026-10-02",
+      "board": true,
+      "banner": {
+        "tag": "friday night",
+        "title": "Hat & Tote Burning Workshop",
+        "when": "Fri Oct 2 · 6–9 PM",
+        "sub": "Registration for this class is closed. Follow Creative Arts Academy and Millie's on Instagram for the next date."
+      }
+    },
+    {
+      "id": "autumn-vendor-market-2026",
+      "title": "autumn vendor market",
+      "label": "saturdays · 8am–noon",
+      "start": "2026-09-12",
+      "end": "2026-12-19",
+      "board": true,
+      "banner": {
+        "tag": "this saturday",
+        "title": "Autumn Vendor Market",
+        "when": "8 AM–Noon",
+        "sub": "October Saturdays are packed with favorite vendors and a few new faces. Permanent jewelry, baked goods, candles, fresh florals, and handmade crafts. Grab a seat in our signature red chairs and make a morning of it."
+      }
+    }
+  ]
+}
