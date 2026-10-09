@@ -21,13 +21,7 @@
       "label": "saturdays · 8am–noon",
       "start": "2026-09-12",
       "end": "2026-12-19",
-      "board": true,
-      "banner": {
-        "tag": "this saturday",
-        "title": "Autumn Vendor Market",
-        "when": "8 AM–Noon",
-        "sub": "October Saturdays are packed with favorite vendors and a few new faces. Permanent jewelry, baked goods, candles, fresh florals, and handmade crafts. Grab a seat in our signature red chairs and make a morning of it."
-      }
+      "board": true
     }
   ]
 }
