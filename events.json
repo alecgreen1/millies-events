@@ -36,6 +36,34 @@
         "when": "Sat Oct 10 · 8am-12pm",
         "sub": "Fresh baked goodies, seasonal coffees, maple syrup, honey, apples, cold pressed juices and more."
       }
+    },
+    {
+      "id": "saturday-market-2026-10-17",
+      "title": "saturday market",
+      "label": "sat oct 17 · 8am",
+      "start": "2026-10-13",
+      "end": "2026-10-17",
+      "board": true,
+      "banner": {
+        "tag": "saturday market",
+        "title": "Saturday Market at Millie’s",
+        "when": "Sat Oct 17 · 8am-12pm",
+        "sub": "Arrow Permanent Jewelry, Ember & Ivory Candles, Sunbeam & Crumb Bakeshop, Sourdough by Syd, and Celtic Brew Coffee."
+      }
+    },
+    {
+      "id": "christmas-open-house-2026-11-07",
+      "title": "christmas open house",
+      "label": "sat nov 7 · 8am",
+      "start": "2026-10-31",
+      "end": "2026-11-07",
+      "board": true,
+      "banner": {
+        "tag": "christmas open house",
+        "title": "Millie’s Christmas Open House",
+        "when": "Sat Nov 7 · starting at 8 AM",
+        "sub": "The shop dressed for the season with Christmas decor, treasures and gifts, plus local makers, coffee and baked goods."
+      }
     }
   ]
 }
