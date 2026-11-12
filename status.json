@@ -1,7 +1,7 @@
 {
-  "last_run_utc": "2026-11-05T15:08:02Z",
-  "ok": true,
-  "events_changed": true,
-  "error": "",
-  "summary": "OK\nRun date: Thu Nov 5 2026 (Chicago). 12 posts scraped.\n\nADDED\n- closed-2026-11-04: closed Wed Nov 4 and Thu Nov 5 for Christmas setup (from Nov 3 post). Board only, no banner. Shows 2026-11-03 to 2026-11-05.\nREMOVED\n- hat-burning-2026-10-02 (ended 34 days ago).\n\nEXPIRING SOON\n- closed-2026-11-04: ends today Nov 5.\n- christmas-open-house-2026-11-07: ends Sat Nov 7.\n\nLIVE NOW (visitor sees today)\n- Board: autumn vendor market (saturdays 8am-noon), christmas open house (sat nov 7, 8am), closed wed nov 4 + thu nov 5.\n- Banner: Christmas Open House (Sat Nov 7, starting 8 AM).\n\nNEEDS YOUR EYES\n- Autumn vendor market runs to Dec 19 but \"autumn\" wording is stale once Christmas starts. Also unclear if Saturday markets continue after the Open House (nothing posted for Nov 14 onward).\n- Oct 31 post said closing at 3PM that day (past, not added).\n- Oct 29 fall clearance \"this week only\" sale and Ranger Station perfume restock: sale/product posts, not added.\n- Oct 18 and Sept 27 posts about Syd's sourdough orders (two week break, orders): vendor only, no date, not added.\n- Undated or vague: Oct 24 \"TODAY IS THE DAY\" (past), Oct 20 market caption, Oct 8 \"half the price\", Oct 27 \"Starts TOMORROW\" (the fall clearance sale, no details).\n- No Nov 14+ events posted yet.\n"
+  "last_run_utc": "2026-11-12T15:07:27Z",
+  "ok": false,
+  "events_changed": false,
+  "error": "claude exit 0 or no OK summary",
+  "summary": "SCRAPE FAILED\nApify call-actor (apify/instagram-post-scraper) returned: User was not found or authentication token is not valid (user-or-token-not-found). Check APIFY_TOKEN.\nRun date: Thu Nov 12 2026. events.json unchanged.\n"
 }
