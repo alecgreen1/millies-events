@@ -1,7 +1,7 @@
 {
-  "last_run_utc": "2026-11-12T15:07:27Z",
+  "last_run_utc": "2026-11-12T17:07:33Z",
   "ok": false,
   "events_changed": false,
   "error": "claude exit 0 or no OK summary",
-  "summary": "SCRAPE FAILED\nApify call-actor (apify/instagram-post-scraper) returned: User was not found or authentication token is not valid (user-or-token-not-found). Check APIFY_TOKEN.\nRun date: Thu Nov 12 2026. events.json unchanged.\n"
+  "summary": "SCRAPE FAILED\nApify call-actor (apify/instagram-post-scraper) returned: User was not found or authentication token is not valid (user-or-token-not-found). Check APIFY_TOKEN.\nevents.json unchanged. Run date: Thu Nov 12 2026.\n"
 }
