@@ -1,7 +1,7 @@
 {
-  "last_run_utc": "2026-11-12T19:07:42Z",
-  "ok": false,
-  "events_changed": false,
-  "error": "claude exit 0 or no OK summary",
-  "summary": "SCRAPE FAILED\nApify call-actor (apify/instagram-post-scraper) returned: User was not found or authentication token is not valid (user-or-token-not-found). Check APIFY_TOKEN.\nevents.json was not changed.\n"
+  "last_run_utc": "2026-11-13T19:40:31Z",
+  "ok": true,
+  "events_changed": true,
+  "error": "",
+  "summary": "OK\n\nADDED\n- extended-hours-2026-11-14: \"extended saturday hours\", sat nov 14 \u00b7 8am-5pm, shows Nov 13-14, board only, no banner (post DfsS1_TTArk, Nov 13: \"THIS SATURDAY: 8-5!\").\n- Removed autumn-food-market-2026-10-10 (ended Oct 10, more than 30 days ago).\n\nEXPIRING SOON (ending within 7 days)\n- extended-hours-2026-11-14 (ends Nov 14)\n\nLIVE NOW (what a visitor sees today, Fri Nov 13)\n- autumn vendor market, saturdays 8am-noon (through Dec 19)\n- extended saturday hours, sat nov 14 \u00b7 8am-5pm\n- Not live: Oct 17 market, Nov 7 open house, Nov 4-5 closure (all past; Oct 17 and Nov 4-5 entries stay until 30 days after end).\n\nNEEDS YOUR EYES\n- Season wording: \"autumn vendor market\" (saturdays 8am-noon, through Dec 19) no longer matches the calendar. Shop is in Christmas mode and the Saturday schedule is unconfirmed after Nov 14. Not changed.\n- Nov 14 hours are 8-5, not the usual 10-5. Check whether vendors are on site that day (post does not say). No banner added.\n- Regular hours per Nov 10 and Nov 13 posts: Wed-Sat 10-5. Confirm the site hours match.\n- Undated or not added: Syd's bread orders (pickup Fridays, Nov 8 post, no date), Stitched Social embroidery (Nov 9, vendor spotlight), Ranger Station perfume (Oct 29, product), fall clearance (Oct 29, sale, \"this week only\"), Halloween sale and 3PM close (Oct 31, past).\n- Nov 6 Auntie Ann's Food Truck (Sat Nov 7 afternoon) was never added and is now past.\n- No posts about Thanksgiving week hours or closures yet. Watch for Nov 25-28.\n"
 }
