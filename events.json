@@ -10,20 +10,6 @@
       "board": true
     },
     {
-      "id": "saturday-market-2026-10-17",
-      "title": "saturday market",
-      "label": "sat oct 17 · 8am",
-      "start": "2026-10-13",
-      "end": "2026-10-17",
-      "board": true,
-      "banner": {
-        "tag": "saturday market",
-        "title": "Saturday Market at Millie’s",
-        "when": "Sat Oct 17 · 8am-12pm",
-        "sub": "Arrow Permanent Jewelry, Ember & Ivory Candles, Sunbeam & Crumb Bakeshop, Sourdough by Syd, and Celtic Brew Coffee."
-      }
-    },
-    {
       "id": "christmas-open-house-2026-11-07",
       "title": "christmas open house",
       "label": "sat nov 7 · 8am",
@@ -51,6 +37,22 @@
       "label": "sat nov 14 · 8am–5pm",
       "start": "2026-11-13",
       "end": "2026-11-14",
+      "board": true
+    },
+    {
+      "id": "saturday-coffee-2026-11-21",
+      "title": "saturday coffee & shopping",
+      "label": "sat nov 21 · 8am–5pm",
+      "start": "2026-11-18",
+      "end": "2026-11-21",
+      "board": true
+    },
+    {
+      "id": "closed-thanksgiving-2026",
+      "title": "closed for thanksgiving",
+      "label": "closed nov 25 – nov 28 · back wed dec 2",
+      "start": "2026-11-19",
+      "end": "2026-11-28",
       "board": true
     }
   ]
